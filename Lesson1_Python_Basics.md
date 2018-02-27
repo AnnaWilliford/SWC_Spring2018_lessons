@@ -53,7 +53,9 @@ Ultimately, by the end of this workshop, you can create your own reports as a Ma
 :hushed::hushed::hushed:
 ```
 =======================================
+```
 [Reports](https://github.com/AnnaWilliford/SWC_Spring2018_lessons/blob/master/Lesson5_GDP_report_Africa_Americas.ipynb)
+```
 =======================================
 ```
 
@@ -62,7 +64,9 @@ You can create the following graphs and leave a good impression.
 :astonished::astonished::scream:
 ```
 =================================================
+```
 [Plots](https://github.com/AnnaWilliford/SWC_Spring2018_lessons/blob/master/Lesson4_Data_Visualization_With_Plotnine.ipynb)
+```
 =================================================
 ```
 
