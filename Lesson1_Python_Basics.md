@@ -9,7 +9,7 @@ Instructor: Balan Ramesh
 Time: 3 hours  
 
 ---
-
+This is Nitin Kanwar
 Good afternoon! I welcome you all to the workshop once again and I am glad you could make it safe to the workshop in such a rainy weather.
 I am Balan Ramesh. I am a graduate student in Dr. Demuth's lab here in UTA. I am interested in studying Sex chromosome evolution in Tribolium species. I work on whole genome sequences and I use various tools including programming languages Python, Shell and R.
 
